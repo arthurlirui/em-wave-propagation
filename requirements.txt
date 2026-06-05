@@ -4,3 +4,6 @@ scipy>=1.10
 # 可选可视化
 # matplotlib>=3.7
 # trimesh>=4.0  # 3D 场景加载
+
+# 可微传播 (梯度优化)
+# torch>=2.0  # GPU 加速自动求导
